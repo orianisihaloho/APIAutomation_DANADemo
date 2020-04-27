@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Employee" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-27T09:24:18" hostname="DNID0651L01.local" time="7.047">
+  <properties/>
+  <testcase name="createEmployee" classname="Employee" time="7.047"/>
+  <system-out><![CDATA[Request method:	POST
+Request URI:	http://dummy.restapiexample.com/api/v1/create
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Oriani",
+    "salary": "1000",
+    "age": "10"
+}
+{
+    "status": "success",
+    "data": {
+        "name": "Oriani",
+        "salary": "1000",
+        "age": "10",
+        "id": 87
+    }
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
