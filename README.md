@@ -1,7 +1,14 @@
 # APIAutomation_DANADemo
-API Automation using Rest Assured
+API Automation using Rest Assured include:
+Do testing about HTTP REQUEST:
+* GET employee
+* POST employee
+Then, we get the HTTP response 
 
-![alt text](https://github.com/orianisihaloho/GoPrivate/blob/master/GoPrivate.png?raw=true)
+## HTTP REQUEST GET 
+![alt text](https://github.com/orianisihaloho/APIAutomation_DANADemo/blob/master/GET.png?raw=true)
+## HTTP REQUEST POST
+![alt text](https://github.com/orianisihaloho/APIAutomation_DANADemo/blob/master/POST.png?raw=true)
 
 ## Table of Contents
 * [Getting Started](#getting-started)
@@ -19,4 +26,4 @@ API Automation using Rest Assured
 ### Usage
 1. Clone this project
 2. Open the project on Intellij IDEA
-3. Run the project
+3. Run the HTTP REQUEST (GET or POST)
