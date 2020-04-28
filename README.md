@@ -3,7 +3,7 @@ API Automation using Rest Assured include:
 Do testing about HTTP REQUEST:
 * GET employee
 * POST employee
-Then, we get the HTTP response 
+* Then, we get the HTTP response 
 
 ## HTTP REQUEST GET 
 ![alt text](https://github.com/orianisihaloho/APIAutomation_DANADemo/blob/master/GET.png?raw=true)
